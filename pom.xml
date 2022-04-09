@@ -7,6 +7,9 @@
     <groupId>com.laqfagal</groupId>
     <artifactId>spring-vue</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>backend</module>
+    </modules>
     <packaging>pom</packaging>
 
     <name>spring-vue</name>
